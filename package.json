@@ -1,7 +1,9 @@
+
 {
   "name": "logininterface",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://ShuaibShuaib.github.io/projects",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
@@ -11,7 +13,8 @@
     "react-bootstrap": "^1.4.3",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4"
+    "web-vitals": "^0.2.4",
+    
   },
   "scripts": {
     "start": "react-scripts start",
@@ -40,7 +43,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.1.0",
-    "homepage": "http://ShuaibShuaib.github.io/projects"
+    "gh-pages": "^3.1.0"
   }
 }
